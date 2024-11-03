@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ignore": "^6.0.2",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7"
+  }
+}
